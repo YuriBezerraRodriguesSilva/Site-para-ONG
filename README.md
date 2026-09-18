@@ -19,6 +19,11 @@ A associação também desenvolve ações voltadas à informação sobre direito
 
 Nosso projeto busca representar a AMILV através de um website institucional, tornando suas informações, objetivos, história, formas de atuação e possibilidades de participação mais acessíveis ao público.
 
+### Contato
+Número: (11) 946140196 Yolanda - (11)953717544 Mirian
+E-mail: amilvasociacaodemulheres@gmail.com
+Endereço: R. Cabral de Ataíde, 729 - Vila Yolanda.
+
 ### Objetivo
 O objetivo deste projeto é desenvolver um site institucional para a AMILV, apresentando informações sobre a organização, sua história, missão, formas de atuação e possibilidades de participação e voluntariado.
 Além de apresentar a ONG, nosso projeto busca aplicar conceitos fundamentais de desenvolvimento Front-End, organização estrutural de páginas e construção de interfaces utilizando HTML básico.
